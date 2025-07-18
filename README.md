@@ -1,4 +1,4 @@
-# 🚀 SupaBMADFloSho
+# 🚀 Floetry
 
 > The Ultimate AI Development Framework - Where Planning Meets Context Meets Implementation Meets Testing
 
@@ -6,9 +6,9 @@
 [![Frameworks](https://img.shields.io/badge/frameworks-4_unified-green)](ARCHITECTURE.md)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
-## 🎯 What is SupaBMADFloSho?
+## 🎯 What is Floetry?
 
-SupaBMADFloSho is the intelligent merger of four powerful AI development frameworks:
+Floetry is the intelligent merger of four powerful AI development frameworks:
 
 - **BMAD-METHOD**: Agentic planning and structured workflows
 - **xText-PRP**: Context engineering and AI-optimized requirements
@@ -17,7 +17,7 @@ SupaBMADFloSho is the intelligent merger of four powerful AI development framewo
 
 But it's not just a merger - it's an evolution. Each framework's strengths amplify the others, creating a development experience that's 10x faster and more reliable than any individual system.
 
-## 🌟 Why SupaBMADFloSho?
+## 🌟 Why Floetry?
 
 ### The Problem with Individual Frameworks
 
@@ -26,7 +26,7 @@ But it's not just a merger - it's an evolution. Each framework's strengths ampli
 - **SuperClaude alone**: Powerful commands but no planning phase
 - **FloSho alone**: Great testing but needs manual setup
 
-### The SupaBMADFloSho Solution
+### The Floetry Solution
 
 ```mermaid
 graph TD
@@ -154,8 +154,8 @@ SupaBMADFloSho/
 
 ### 1. Install
 ```bash
-git clone https://github.com/a2thalex/SupaBMADFloSho.git
-cd SupaBMADFloSho
+git clone https://github.com/a2thalex/floetry.git
+cd floetry
 python setup/install.py
 ```
 
@@ -240,7 +240,7 @@ Built on the shoulders of giants:
 ---
 
 <p align="center">
-  <b>SupaBMADFloSho</b> - Where AI Development Dreams Come True 🚀
+  <b>Floetry</b> - Where AI Development Dreams Come True 🚀
   <br>
   <i>One System, Infinite Possibilities</i>
 </p>
