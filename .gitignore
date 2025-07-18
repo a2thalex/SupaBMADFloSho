@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env
+
+# Logs
+logs/
+*.log
+
+# Build outputs
+dist/
+build/
+out/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Local environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.backup
+
+# SupaBMADFloSho specific
+.claude-cache/
+.supa-temp/
+planning/drafts/
+contexts/cache/
+implementation/workspace/
+testing/results/
+orchestration/logs/
